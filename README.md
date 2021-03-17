@@ -1,3 +1,4 @@
-# T3Tradutor
-T3deED1 (020.2)
-Árvore Binária Ordenada e Balanceada Armazenamento de um Dicionário com possibilidade de traduzir palavras e com função de "auto-completar".
+# simple_translator
+Ordered and Balanced Binary Tree Storage of a Dictionary with the possibility of translating words and with an "auto-complete" function.
+
+ED1_T3 (020.2)
